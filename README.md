@@ -8,5 +8,4 @@ I entered this world of programming because I liked it right away at the age of 
 I currently have 2 projects open including first and bedwars and second an AC (anticheat mc) so don't expect big things from me
 
 ![Jaskri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskrii&hide=contribs,prs)
-![Jaskri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskri&show_icons=true&theme=TokyoNight)
 IG: Jaskriii
