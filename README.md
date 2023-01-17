@@ -12,6 +12,6 @@
   
   <hr>
 <!-My GitHub Stats-->
-[![Stats](https://github-readme-stats.vercel.app/api?username=Jaskrii&account_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaskrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskrii)](https://github.com/anuraghazra/github-readme-stats)
 
 
