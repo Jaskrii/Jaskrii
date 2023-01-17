@@ -11,9 +11,13 @@
 </h1>
   
   <hr> 
-  🏫: ITIS
-  🌍: Italy
-<!-My GitHub Stats-->
-[Jaskrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskrii)](https://github.com/anuraghazra/github-readme-stats)
+  <ul>
+     <li>
+   🏫: ITIS
+     <li>
+   🌍: Italy
+     </li>
+ 
+
 
 
