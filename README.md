@@ -18,6 +18,6 @@
    🌍: Italy
      </li>
 
-
+[![Jaskri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskrii)](https://github.com/anuraghazra/github-readme-stats)
 
 
